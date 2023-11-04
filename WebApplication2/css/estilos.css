@@ -1,0 +1,23 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+    text-align: justify;
+}
+header{
+    background-color:aqua;
+    margin:1.5em 1.5em 1.5em 0.2em;
+    height: 48px;
+    width: 1011px;
+}
+header h1{
+    text-emphasis-color:Black;
+}
+div{
+    width:60%;
+}
+article{
+    width:20%%
+}
